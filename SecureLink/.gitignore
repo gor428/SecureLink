@@ -1,0 +1,11 @@
+/build/
+*.o
+*.a
+*.so
+*.core
+*.pcap
+*.log
+.env
+*.key
+*.pem
+config/device*.conf
